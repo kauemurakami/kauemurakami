@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:kauetmurakami@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/kauemurakami/)
 
-### Hello! 👋 Welcome to my profile
+### Hello! 👋 Welcome to my profile :octocat:
 
 - 🔭 I’m currently working on mobile development
 - 🌱 I’m currently learning Dart, 💙 Flutter, IoT and Deno
