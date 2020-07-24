@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/kauemurakami)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:kauetmurakami@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/kauemurakami/)
-[![Telegram Badge](https://img.shields.io/badge/-@devmrcs-blue?style=flat-square&labelColor=blue&logo=telegram&logoColor=white&link=https://t.me/joinchat/PhdbJRmsZNpAqSLJL6bH7g)](https://t.me/joinchat/PhdbJRmsZNpAqSLJL6bH7g)
+[![Telegram Badge](https://img.shields.io/badge/-@getx_pattern_group-blue?style=flat-square&labelColor=blue&logo=telegram&logoColor=white&link=https://t.me/joinchat/PhdbJRmsZNpAqSLJL6bH7g)](https://t.me/joinchat/PhdbJRmsZNpAqSLJL6bH7g)
 
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
 
