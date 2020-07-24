@@ -15,6 +15,7 @@
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
 - ⚡ Passionate about new mobile technologies.
-<img style="margin: 0 auto" src="https://github.com/devmrcs/devmrcs/blob/master/gifs/coca-to-code.gif" height="50">  
 ### Let's program
+<img style="margin: 0 auto" src="https://github.com/devmrcs/devmrcs/blob/master/gifs/coca-to-code.gif" height="50">  
+
 
