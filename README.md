@@ -6,7 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:kauetmurakami@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/kauemurakami/)
 [![Telegram Badge](https://img.shields.io/badge/-@getx_pattern_group-blue?style=for-the-badge&labelColor=blue&logo=telegram&logoColor=white&link=https://t.me/joinchat/PhdbJRmsZNpAqSLJL6bH7g)](https://t.me/joinchat/PhdbJRmsZNpAqSLJL6bH7g)
-
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
 
 - 🔭 I’m currently working on mobile development
