@@ -13,7 +13,7 @@
 - 👯 Looking to contribute with the organization and structure of Flutter projects that use [**GetX**](https://pub.dev/packages/get) as a state manager, with a pattern proposed by me called [**getx_pattern**](https://kauemurakami.github.io/getx_pattern), and accelerate the development with an extension made for vs code, [**GetX Snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets), both projects can be found in **this github**, in addition starting to contribute directly to the package.
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
-- ⚡ Passionate about new mobile technologies.
+- ⚡ Passionate about new mobile technologies.  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kauemurakami&count_private=true&theme=buefy&show_icons=true)](https://github.com/kauemurakami)
 </br>
 </br>
