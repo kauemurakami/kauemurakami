@@ -14,7 +14,9 @@
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
 - ⚡ Passionate about new mobile technologies.
-### Let's program
-<img style="margin: 0 auto" src="https://github.com/devmrcs/devmrcs/blob/master/gifs/coca-to-code.gif" height="50">  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kauemurakami&count_private=true&theme=buefy&show_icons=true)](https://github.com/kauemurakami)
+</br>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauemurakami&layout=compact)](https://github.com/kauemurakami/)
 
 
