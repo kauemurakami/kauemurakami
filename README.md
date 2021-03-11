@@ -15,7 +15,6 @@
 - 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
 - ⚡ Passionate about new mobile technologies.  
 
- 
 </p>
 
 <p align="center">
