@@ -11,6 +11,7 @@
 - 🔭 I’m currently working on mobile development
 - 🌱 Learning Dart, 💙 Flutter, Blockchain, IoT, Information Secutiry ,Deno and NodeJS
 - 👯 Looking to contribute with the organization and structure of Flutter projects that use [**GetX**](https://pub.dev/packages/get) as a state manager, with a pattern proposed by me called [**getx_pattern**](https://kauemurakami.github.io/getx_pattern), and accelerate the development with an extension made for vs code, [**GetX Snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets), both projects can be found in **this github**, in addition starting to contribute directly to the package.
+- Creator and maintainer of package [**app_version_update**](https://pub.dev/packages/app_version_update).
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
 - ⚡ Passionate about new mobile technologies.  
