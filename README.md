@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/kauemurakami/)
 
 - 🔭 I’m currently working on mobile development
-- 🥷 Ninja in Dart 💙 Flutter, JavaScript 💜 NodeJS/Deno 
+- :shipit: Ninja in Dart 💙 Flutter, JavaScript 💜 NodeJS/Deno 
 - 👨‍⚕️ Maker IoT using Arduino, esp and Rasp. Blockchain/Ethereum dApps.
 - 👯 Looking to contribute with the organization and structure of Flutter projects that use [**GetX**](https://pub.dev/packages/get) as a state manager, with a pattern proposed by me called [**getx_pattern**](https://kauemurakami.github.io/getx_pattern), and accelerate the development with an extension made for vs code, [**GetX Snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets), both projects can be found in **this github**, in addition starting to contribute directly to the package.
 - Creator and maintainer of packages
