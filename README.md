@@ -23,7 +23,7 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauemurakami&show_icons=true&theme=transparent) [![Kauê Murakami GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kauemurakami&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauemurakami&show_icons=true&theme=transparent) ![Kauê Murakami GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kauemurakami&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)
 
 </br>
 </br>
