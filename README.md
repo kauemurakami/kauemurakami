@@ -22,8 +22,8 @@
 
 </p>
 
-| <a href="https://github.com/kauemurakami/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kauemurakami&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kauê's github stats" /></a> | <a href="https://github.com/kauemurakami/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauemurakami&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauemurakami&show_icons=true&theme=transparent)
 
 </br>
 </br>
