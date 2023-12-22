@@ -18,7 +18,8 @@
   - [**getx_snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets).
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
-- ⚡ Passionate about new mobile technologies.  
+- ⚡ Passionate about new mobile technologies.
+- ⭐ My profile stars ![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
 
 </p>
 
