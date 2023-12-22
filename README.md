@@ -19,7 +19,8 @@
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
 - ⚡ Passionate about new mobile technologies.
-- ⭐ My profile stars ![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
+- ⭐ Profile stars ![Estrelas Totais](https://img.shields.io/github/stars/kauemurakami?style=social)
+
 
 </p>
 
