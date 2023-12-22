@@ -6,7 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:kauetmurakami@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/kauemurakami/)
 
-- ⭐ Profile stars ![Estrelas Totais](https://img.shields.io/github/stars/kauemurakami?style=social)
+
+
 - 🔭 I’m currently working on mobile development
 - :shipit: Ninja in Dart 💙 Flutter, JavaScript 💜 NodeJS/Deno 
 - 👨‍⚕️ Maker IoT using Arduino, esp and Rasp. Blockchain/Ethereum dApps.
@@ -20,8 +21,7 @@
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
 - ⚡ Passionate about new mobile technologies.
-
-
+- ⭐ Profile stars ![Estrelas Totais](https://img.shields.io/github/stars/kauemurakami?style=social)
 
 </p>
 
