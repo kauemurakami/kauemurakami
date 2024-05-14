@@ -16,8 +16,8 @@
   - [**minimals_state_manager**](https://pub.dev/packages/minimals_state_manager).
 - Creator and mantiner open-source projects
   - [**getx_pattern**](https://pub.dev/packages/getx_pattern).
-  - [**getx_snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets).
-    [**go-fast-snippets**](https://marketplace.visualstudio.com/items?itemName=go-snippets.go-fast-snippets&ssr=false#overview).
+  - [**getx_snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets).  
+  - [**go-fast-snippets**](https://marketplace.visualstudio.com/items?itemName=go-snippets.go-fast-snippets&ssr=false#overview).
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
 - ⚡ Passionate about new mobile technologies.
