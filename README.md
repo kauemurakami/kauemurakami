@@ -2,7 +2,6 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@kauemurakami)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/kauemurakami)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/kauemurakami/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/kauemurakami)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:kauetmurakami@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/kauemurakami/)
 
@@ -18,6 +17,7 @@
 - Creator and mantiner open-source projects
   - [**getx_pattern**](https://pub.dev/packages/getx_pattern).
   - [**getx_snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets).
+    [**go-fast-snippets**](https://marketplace.visualstudio.com/items?itemName=go-snippets.go-fast-snippets&ssr=false#overview).
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
 - ⚡ Passionate about new mobile technologies.
