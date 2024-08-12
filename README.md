@@ -21,7 +21,6 @@
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
 - ⚡ Passionate about new mobile technologies.
-- ⭐ Profile stars  ⭐ ![Estrelas Totais](https://img.shields.io/github/stars/kauemurakami?style=social) ⭐
 
 </p>
 
