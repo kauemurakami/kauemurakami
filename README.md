@@ -8,8 +8,8 @@
 
 
 - 🔭 I’m currently working on mobile development
-- :shipit: Ninja in Dart 💙 Flutter, JavaScript 💜 NodeJS/Deno/Go 
-- 👨‍⚕️ Maker IoT using Arduino, esp and Rasp. Blockchain/Ethereum dApps.
+- :shipit: Ninja in Dart 💙 Flutter, JavaScript 💜 NodeJS 
+- 👨‍⚕️ Maker with Go, Deno and IoT using Arduino, esp and Rasp, also basic Blockchain/Ethereum dApps.
 - 👯 Looking to contribute with the organization and structure of Flutter projects that use [**GetX**](https://pub.dev/packages/get) as a state manager, with a pattern proposed by me called [**getx_pattern**](https://kauemurakami.github.io/getx_pattern), and accelerate the development with an extension made for vs code, [**GetX Snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets), both projects can be found in **this github**, in addition starting to contribute directly to the package.
 - Creator and maintainer of Flutter packages
   - [**app_version_update**](https://pub.dev/packages/app_version_update).
