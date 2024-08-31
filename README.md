@@ -15,7 +15,7 @@
   - [**app_version_update**](https://pub.dev/packages/app_version_update).
   - [**loading_status_button**](https://pub.dev/packages/loading_status_button).
   - [**minimals_state_manager**](https://pub.dev/packages/minimals_state_manager).
-- Creator and mantiner open-source projects
+- Creator and maintainer open-source projects
   - [**getx_pattern**](https://pub.dev/packages/getx_pattern).
   - [**getx_snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets).  
   - [**go-fast-snippets**](https://marketplace.visualstudio.com/items?itemName=go-snippets.go-fast-snippets&ssr=false#overview).
