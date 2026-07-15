@@ -27,14 +27,16 @@
 - ⚡ Passionate about new mobile technologies and performance.
 </p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauemurakami&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauemurakami&theme=tokyonight&hide_border=true&v=1" height="195" />
 </p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kauemurakami&theme=tokyonight&hide_border=true&v=1" height="195" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauemurakami&theme=tokyonight&cache=123" /></td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauemurakami&theme=tokyonight&cache=123" />  
-</p>
 
