@@ -12,11 +12,12 @@
 - 👨‍⚕️ Maker with Go, Deno and IoT using Arduino, esp and Rasp, also basic Blockchain/Ethereum dApps.
 - 👯 Looking to contribute with the organization and structure of Flutter projects that use [**GetX**](https://pub.dev/packages/get) as a state manager, with a pattern proposed by me called [**getx_pattern**](https://kauemurakami.github.io/getx_pattern), and accelerate the development with an extension made for vs code, [**GetX Snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets), both projects can be found in **this github**, in addition starting to contribute directly to the package.
 - Creator and maintainer of Flutter packages
+  - [**minimals_state_manager**](https://pub.dev/packages/minimals_state_manager).
   - [**flutter_tamper_detector**](https://pub.dev/packages/flutter_tamper_detector). 
   - [**app_version_update**](https://pub.dev/packages/app_version_update).
   - [**loading_status_button**](https://pub.dev/packages/loading_status_button).
-  - [**minimals_state_manager**](https://pub.dev/packages/minimals_state_manager).
   - [**flutter_hover_effect**](https://pub.dev/packages/flutter_hover_effect).
+  - [**easy_test_variants**](https://pub.dev/packages/easy_test_variants).
 - Creator and maintainer open-source projects
   - [**getx_pattern**](https://pub.dev/packages/getx_pattern).
   - [**getx_snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets).  
