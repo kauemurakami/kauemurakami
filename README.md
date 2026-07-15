@@ -23,10 +23,17 @@
   - [**go-fast-snippets**](https://marketplace.visualstudio.com/items?itemName=go-snippets.go-fast-snippets&ssr=false#overview).
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
-- ⚡ Passionate about new mobile technologies.
-
+- ⚡ Passionate about new mobile technologies and performance.
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauemurakami&show_icons=true&theme=transparent) | ![Kauê Murakami GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kauemurakami&layout=compact&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true&langs_count=8)  
+## 📊 GitHub Stats
 
-[![Check out kauemurakami's profile on stardev.io](https://stardev.io/developers/kauemurakami/badge/languages/locality.svg)](https://stardev.io/developers/kauemurakami)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauemurakami&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauemurakami&theme=tokyonight&hide_border=true&v=1" height="195" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauemurakami&theme=tokyonight&cache=123" />  
+</p>
+
